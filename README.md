@@ -1,7 +1,6 @@
 # Judul : Memperbaiki Kata Tidak Formal pada Komentar dengan Menggunakan Sastrawi dan Mapping
 
-Program yang dapat memperbaiki kata tidak formal dalam Bahasa Indonesia menjadi kata formal dengan menggunakan Sastrawi dan Mapping
-Program ini dibuat untuk memenuhi tugas akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh Kelompok 13:
+Program yang dapat memperbaiki kata tidak formal dalam Bahasa Indonesia menjadi kata formal dengan menggunakan Sastrawi dan Mapping. Program ini dibuat untuk memenuhi tugas akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh Kelompok 13:
 
 1. Adi Parmanto Sagala 11S16019
 2. Michael S 11S16022

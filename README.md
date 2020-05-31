@@ -3,9 +3,9 @@
 Program yang dapat memperbaiki kata tidak formal dalam Bahasa Indonesia menjadi kata formal dengan menggunakan Sastrawi dan Mapping
 Program ini dibuat untuk memenuhi tugas akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh Kelompok 13:
 
-Adi Parmanto Sagala 11S16019
-Michael S 11S16022
-Hizkia R 11S15039
+1. Adi Parmanto Sagala 11S16019
+2. Michael S 11S16022
+3. Hizkia R 11S15039
 
 Program ini terinspirasi dari:
 Indonesian stemmer. Python port of PHP Sastrawi project. dari GitHub Menggunakan Sastrawi, by Hanif Amal Robbani https://github.com/har07/PySastrawi
